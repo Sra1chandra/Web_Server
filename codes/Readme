@@ -1,0 +1,17 @@
+Server is Running at Port 54321
+
+In client.py
+GET file_name
+POST file_name
+PUT file_name
+
+In server.py
+only handle single request at a time 
+only GET request is handled without Authentication
+
+In server_threading.py
+
+It can Handle mutiple requests
+GET POST PUT requests are handled
+POST request display file at server
+PUT request stores file in server
